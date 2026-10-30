@@ -23,7 +23,7 @@ Clone the repository and run the simulation locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/saif-ali-obayes/Advanced-Orbital-Simulator.git](https://github.com/saif-ali-obayes/Advanced-Orbital-Simulator.git)
+git clone https://github.com/saif-ali-obayes/Advanced-Orbital-Simulator.git
 
 # Navigate to project directory
 cd Advanced-Orbital-Simulator
