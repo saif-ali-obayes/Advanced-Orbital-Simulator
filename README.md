@@ -1,4 +1,4 @@
-# 🌌 Advanced 3D Astrodynamics & # 🌌 Advanced 3D Astrodynamics & Orbital Simulation Suite
+# 🌌 Advanced 3D Astrodynamics & Orbital Simulation Suite
 
 A high-precision, multi-physics orbital mechanics simulation suite developed in **Python**, designed to model complex satellite trajectories under realistic space environment perturbations.
 
