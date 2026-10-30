@@ -29,6 +29,7 @@ pip install numpy matplotlib
 
 # Run the 3D orbital simulation
 python orbital_simulater.py
+```
 
 📊 Visualizations & Results
 3d_orbital_simulation.png : Full 3D inclined orbit incorporating all perturbations and maneuvers.
