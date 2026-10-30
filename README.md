@@ -8,10 +8,6 @@ A high-precision, multi-physics orbital mechanics simulation suite developed in 
 3. **Atmospheric Drag & Decay:** Incorporates an exponential atmospheric density model ($\rho = \rho_0 e^{-h/H}$) to simulate orbital decay in Low Earth Orbit (LEO).
 4. **Orbital Maneuvers / Thrust:** Simulates active prograde rocket burns (`Orbit Raising`) for orbital transfer mechanics.
 5. **3D Visualization:** Generates full 3D interactive plots with true orbital inclination angles around an oblate Earth model using NumPy and Matplotlib.
-6. 📊 Visualizations & Results
-3d_orbital_simulation.png : Full 3D inclined orbit incorporating all perturbations and maneuvers.
-rk4_orbital_simulation.png : High-precision orbital tracking via RK4.
-thrust_orbital_simulation.png : Orbit raising visualization via active prograde thrust.
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
@@ -33,3 +29,8 @@ pip install numpy matplotlib
 
 # Run the 3D orbital simulation
 python orbital_simulater.py
+
+📊 Visualizations & Results
+3d_orbital_simulation.png : Full 3D inclined orbit incorporating all perturbations and maneuvers.
+rk4_orbital_simulation.png : High-precision orbital tracking via RK4.
+thrust_orbital_simulation.png : Orbit raising visualization via active prograde thrust.
